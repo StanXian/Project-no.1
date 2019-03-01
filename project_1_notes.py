@@ -5,8 +5,13 @@
 
 gkey = "AIzaSyDloEPbhhkbSdjex_QLpQotMOp5HrQBEkI"
 
+#gkey 2 from charlotte.say.hello@gmail.com
+second_key = "AIzaSyDPddqGo7HCNJvZ5VNKCw8ZBeHKkX79N3Q"
+
 # # Search engine ID
 cx = "000783178101923127511:vw462omy5uo"
+
+
 
 # <script>
 #   (function() {
@@ -21,7 +26,8 @@ cx = "000783178101923127511:vw462omy5uo"
 # </script>
 # <gcse:search></gcse:search>
 
-
+# Second API key in case you fucked it up
+# AIzaSyAzPyaZCfzWG4lxGkVa0VoEwktMBAvKcHU
 
 # '''
 
